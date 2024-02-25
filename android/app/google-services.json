@@ -1,0 +1,85 @@
+{
+  "project_info": {
+    "project_number": "1068439231822",
+    "firebase_url": "https://random-chat-d912c-default-rtdb.firebaseio.com",
+    "project_id": "random-chat-d912c",
+    "storage_bucket": "random-chat-d912c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1068439231822:android:a5e5de5afc4ac30df0921f",
+        "android_client_info": {
+          "package_name": "com.codingislife.app.randomchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1068439231822-n31382gassm8292k3ui3aa0479bk5l59.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqQDdH1Wx5wVTS2m8q2RXIq9jp2S0IOZk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1068439231822-0kb9qk16cm86j8djhvaup736tpmgb3b6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1068439231822:android:7f32da34e15060b2f0921f",
+        "android_client_info": {
+          "package_name": "com.codingislife.randomchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1068439231822-d5vvs35p37ghrtrj9cosq0ec5gn6pqv7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.codingislife.randomchat",
+            "certificate_hash": "58b3f30543488a13faaf0f06baf3ff5563582b40"
+          }
+        },
+        {
+          "client_id": "1068439231822-ppm9vh91vvaer2fs1ngdkuid2os7ckqi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.codingislife.randomchat",
+            "certificate_hash": "833ec5479575b498dc2c7f03ec38f1203252202e"
+          }
+        },
+        {
+          "client_id": "1068439231822-n31382gassm8292k3ui3aa0479bk5l59.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqQDdH1Wx5wVTS2m8q2RXIq9jp2S0IOZk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1068439231822-0kb9qk16cm86j8djhvaup736tpmgb3b6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
